@@ -31,3 +31,6 @@ alien_invasion/
 
 2. Запустите игру:
 ```python alien_invasion.py```
+
+## Результат 
+![](https://github.com/BlohinaValeria/Mathematical-foundations-of-computer-graphics/blob/main/PART1/отчет.png)
